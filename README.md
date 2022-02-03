@@ -16,7 +16,7 @@ Palu Earthquake Footprint Generation
 # Objective
 
 The following report contains the description of the impact, damages,
-and losses due the M7.5 earthquake that occured at Palu, Indonesia on 28
+and losses due the M7.5 earthquake that occurred at Palu, Indonesia on 28
 Sept’18. It also includes description of the process of footprint
 generation using OpenQuake engine by GEM foundation. A reference
 footprint for the same can be found in
