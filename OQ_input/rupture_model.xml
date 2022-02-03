@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nrml xmlns:gml="http://www.opengis.net/gml"
+	xmlns="http://openquake.org/xmlns/nrml/0.5">
+	<multiPlanesRupture>
+		<magnitude>7.5</magnitude>
+		<rake>-17</rake>
+		<hypocenter lat="-0.256" lon="119.846" depth="18"/>
+		<planarSurface strike="358" dip="66">
+			 <topLeft lon="119.817344" lat="-0.171057" depth="0.0" />
+			 <topRight lon="119.8872" lat="-1.183796" depth="0.0" />
+			 <bottomLeft lon="119.817344" lat="-0.171057" depth="30.0" />
+			 <bottomRight lon="119.8872" lat="-1.183796" depth="30.0" />
+		 </planarSurface>
+		 <planarSurface strike="358" dip="66">
+			 <topLeft lon="119.8872" lat="-1.183796" depth="0.0" />
+			 <topRight lon="119.947168" lat="-1.23656" depth="0.0" />
+			 <bottomLeft lon="119.8872" lat="-1.183796" depth="30.0" />
+			 <bottomRight lon="119.947168" lat="-1.23656" depth="30.0" />
+		 </planarSurface>
+		 <planarSurface strike="358" dip="66">
+			 <topLeft lon="119.947168" lat="-1.23656" depth="0.0" />
+			 <topRight lon="119.969712" lat="-1.361803" depth="0.0" />
+			 <bottomLeft lon="119.947168" lat="-1.23656" depth="30.0" />
+			 <bottomRight lon="119.969712" lat="-1.361803" depth="30.0" />
+		 </planarSurface>
+	 </multiPlanesRupture>
+ </nrml>
